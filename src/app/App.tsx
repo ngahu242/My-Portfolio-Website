@@ -12,7 +12,7 @@ import {
 // 📄 Update RESUME_VIEW_URL with a Google Drive preview link or Cloudinary PDF.
 // 📥 Update RESUME_DOWNLOAD_URL with a direct download link.
 // ─────────────────────────────────────────────────────────────────────────────
-const RESUME_VIEW_URL = "https://res.cloudinary.com/dqczxob3/image/upload/Ngahu_CV_oyc63z.pdf";
+const RESUME_VIEW_URL = "https://res.cloudinary.com/dqczxob3/image/upload/Ngahu_CV_enbhws.pdf";
 
 
 
