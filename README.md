@@ -1,11 +1,58 @@
+# 🛡️ Joseph Ngahu Portfolio
 
-  # My Portfolio Website
+A modern, responsive cybersecurity portfolio built to showcase my projects, certifications, technical articles, and professional journey.
 
-  This is a code bundle for My Portfolio Website. The original project is available at https://www.figma.com/design/nwZEqWt2N2kEDCoHa4nVKR/My-Portfolio-Website.
+🌐 **Live Demo:** https://my-portfolio-website-rust-chi.vercel.app/
 
-  ## Running the code
+---
 
-  Run `npm i` to install the dependencies.
+## 🚀 Features
 
-  Run `npm run dev` to start the development server.
-  
+* Modern and responsive design
+* About Me section
+* Cybersecurity project showcase
+* Certifications with downloadable certificates
+* Medium articles integration
+* GitHub repository links
+* AI-powered assistant to answer questions about my skills, projects, and experience
+* Contact form with EmailJS integration and automatic email replies
+
+---
+
+## 📂 Featured Projects
+
+* 🖥️ Enterprise Cybersecurity Lab
+* 🔍 SOC Lab (Splunk)
+* 🦠 Malware Analysis Lab
+* 🛡️ Kali SOC Level I
+* 📊 Vulnerability Assessment Lab
+
+---
+
+## 🛠️ Built With
+
+* React
+* Vite
+* TypeScript
+* Tailwind CSS
+* Framer Motion
+* EmailJS
+* Vercel
+
+---
+
+## 📬 Contact
+
+If you'd like to collaborate, discuss cybersecurity, or connect professionally, feel free to reach out through the contact form on my portfolio.
+
+🌐 Portfolio: https://my-portfolio-website-rust-chi.vercel.app/
+
+---
+
+## ⭐ Support
+
+If you found this project interesting, consider giving it a ⭐ on GitHub. Your support is greatly appreciated!
+
+---
+
+© 2026 Joseph Ngahu. All rights reserved.
