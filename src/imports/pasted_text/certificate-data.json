@@ -1,0 +1,347 @@
+
+
+I added Links for the Certificate but they are not displaying. Solve This
+
+  {
+    id: "cisco-cybersec-essentials",
+    name: "Cybersecurity Essentials",
+    issuer: "Cisco Networking Academy",
+    date: "2023",
+    color: "#00bceb",
+    group: "Cisco",
+    certificateUrl: "https://res.cloudinary.com/dqczxob3/image/upload/Cybersecurity_Essentials_certificate_ngahujoseph184-gmail-com_d37b0ef2-807f-47f5-a83c-5d0180b3ee9c_shaght.pdf", // 👈 Replace with your certificate image/PDF URL
+    credlyUrl: "https://www.credly.com/users/joseph-ngahu",
+  },
+  {
+    id: "cisco-ctm",
+    name: "Cyber Threat Management",
+    issuer: "Cisco Networking Academy",
+    date: "2023",
+    color: "#00bceb",
+    group: "Cisco",
+    certificateUrl: "https://res.cloudinary.com/dqczxob3/image/upload/v1782762472/Cyber_Threat_Management_certificate_ngahujoseph184-gmail-com_464309c9-eb33-4a07-b0fd-66f0fd2fdb8a_hms8wz.pdf", // 👈 Replace with your certificate image/PDF URL
+    credlyUrl: "https://www.credly.com/users/joseph-ngahu",
+  },
+  {
+    id: "ccna-intro",
+    name: "CCNA: Introduction to Networks",
+    issuer: "Cisco Networking Academy",
+    date: "2023",
+    color: "#00bceb",
+    group: "Cisco",
+    certificateUrl: "https://res.cloudinary.com/dqczxob3/image/upload/CCNA-_Introduction_to_Networks_certificate_ngahujoseph184-gmail-com_ff124b61-05d5-437f-b1c5-452de1d4130c_oix5gp.pdf", // 👈 Replace with your certificate image/PDF URL
+    credlyUrl: "https://www.credly.com/users/joseph-ngahu",
+  },
+  {
+    id: "ccna-srwe",
+    name: "CCNA: Switching, Routing & Wireless",
+    issuer: "Cisco Networking Academy",
+    date: "2023",
+    color: "#00bceb",
+    group: "Cisco",
+    certificateUrl: "https://res.cloudinary.com/dqczxob3/image/upload/CCNA-_Switching-_Routing-_and_Wireless_Essentials_certificate_ngahujoseph184-gmail-com_b342e0bb-f31a-436e-9924-0798199742fd_a1qphp.pdf", // 👈 Replace with your certificate image/PDF URL
+    credlyUrl: "https://www.credly.com/users/joseph-ngahu",
+  },
+  {
+    id: "ccna-ensa",
+    name: "CCNA: Enterprise Networking, Security & Automation",
+    issuer: "Cisco Networking Academy",
+    date: "2023",
+    color: "#00bceb",
+    group: "Cisco",
+    certificateUrl: "https://res.cloudinary.com/dqczxob3/image/upload/CCNA-_Enterprise_Networking-_Security-_and_Automation_certificate_ngahujoseph184-gmail-com_d9b1d2d8-29cd-4ca3-8658-76894be0f833_yhxsif.pdf", // 👈 Replace with your certificate image/PDF URL
+    credlyUrl: "https://www.credly.com/users/joseph-ngahu",
+  },
+  {
+    id: "cisco-devnet",
+    name: "Cisco DevNet Associate",
+    issuer: "Cisco Systems",
+    date: "2025",
+    color: "#1ba0d7",
+    group: "Cisco",
+    certificateUrl: "https://res.cloudinary.com/dqczxob3/image/upload/_certificate_ngahujoseph184-gmail-com_91ca088e-85bf-4b29-9730-36900e20a4e7_1_g2r4yc.pdf", // 👈 Replace with your certificate image/PDF URL
+    credlyUrl: "https://www.credly.com/users/joseph-ngahu",
+  },
+  {
+    id: "cisco-jca",
+    name: "Junior Cybersecurity Analyst Career Path",
+    issuer: "Cisco Networking Academy",
+    date: "2026",
+    color: "#00bceb",
+    group: "Cisco",
+    certificateUrl: "https://drive.google.com/file/d/1GTVK6f3OfbiE-7qEROsinJicD9CefSdy/preview?usp=sharing", // 👈 Replace with your certificate image/PDF URL
+    credlyUrl: "https://www.credly.com/users/joseph-ngahu",
+  },
+  // ── LETSDEFEND ─────────────────────────────────────────────────────────────
+  {
+    id: "letsdefend-soc",
+    name: "SOC Analyst Learning Path",
+    issuer: "LetsDefend",
+    date: "2026",
+    color: "#3ecf8e",
+    group: "LetsDefend",
+    certificateUrl: "https://res.cloudinary.com/dqczxob3/image/upload/d06ffe3f-7110-4000-93d1-5b092c758993_runujs.png", // 👈 Replace with your certificate image/PDF URL
+    credlyUrl: "https://app.letsdefend.io/",
+  },
+  // ── CENTRI ─────────────────────────────────────────────────────────────────
+  {
+    id: "centri-btja",
+    name: "Blue Team Junior Analyst Pathway",
+    issuer: "Centri",
+    date: "2026",
+    color: "#557c9b",
+    group: "Centri",
+    certificateUrl: "https://res.cloudinary.com/dqczxob3/image/upload/d06ffe3f-7110-4000-93d1-5b092c758993_runujs.png", // 👈 Replace with your certificate image/PDF URL
+    credlyUrl: "#",
+  },
+  // ── ISC2 ────────────────────────────────────────────────────────────────────
+  {
+    id: "isc2-intro",
+    name: "Introduction to Cybersecurity",
+    issuer: "ISC2",
+    date: "2024",
+    color: "#00a651",
+    group: "ISC2",
+    certificateUrl: "#", // 👈 Replace with your certificate image/PDF URL
+    credlyUrl: "https://www.credly.com/users/joseph-ngahu",
+  },
+  // ── TO-DO / IN PROGRESS ────────────────────────────────────────────────────
+  {
+    id: "comptia-secplus",
+    name: "CompTIA Security+",
+    issuer: "CompTIA",
+    date: "In Progress",
+    color: "#c8202f",
+    group: "CompTIA",
+    certificateUrl: "#",
+    credlyUrl: "#",
+    todo: true,
+  },
+  {
+    id: "comptia-cysa",
+    name: "CompTIA CySA+",
+    issuer: "CompTIA",
+    date: "Planned",
+    color: "#c8202f",
+    group: "CompTIA",
+    certificateUrl: "#",
+    credlyUrl: "#",
+    todo: true,
+  },
+];
+
+
+Also add this certificate
+
+    {
+    id: "ccna-intro",
+    name: "CCNA: Introduction to Cybersecurity",
+    issuer: "Cisco Networking Academy",
+    date: "2023",
+    color: "#00bceb",
+    group: "Cisco",
+ 
+certificateUrl: "https://res.cloudinary.com/dqczxob3/image/upload/Introduction_to_Cybersecurity_certificate_ngahujoseph184-gmail-com_b814a366-1af2-42d9-8f7a-365f83cda644_1_qmsxmv.pdf", // 👈 Replace with your certificate image/PDF URL
+    credlyUrl: "https://www.credly.com/users/joseph-ngahu",
+  },
+
+
+For the Articles/ Written WWorks Add this
+
+
+Part 5: Integrating Kali Linux into the Cyber Lab Environment
+
+Published Jun 22
+·
+5 min read
+·
+Updated Jun 22
+0
+0			Toggle actions menu
+
+
+
+Part 4: Enterprise Active Directory Structure and Security Policy Framework
+
+Published Jun 22
+·
+5 min read
+·
+Updated Jun 22
+0
+0			Toggle actions menu
+
+
+
+Part 3: Configuring and Validating the Windows 11 Domain Client
+
+Published Jun 21
+·
+4 min read
+·
+Updated Jun 21
+0
+0			Toggle actions menu
+
+
+
+Part 2: Configuring the Cyber Lab Environment — Windows Server 2022
+
+Published Jun 21
+·
+5 min read
+·
+Updated Jun 21
+0
+0			Toggle actions menu
+
+
+
+Part 1: Network Configuration using pfSense
+
+Published Jun 19
+·
+4 min read
+·
+Updated Jun 21
+0
+0			Toggle actions menu
+
+Building a Cybersecurity and Malware Analysis Lab Series
+
+Published Jun 19
+·
+5 min read
+·
+Updated Jun 19
+0
+0			Toggle actions menu
+All published in 2026
+
+View all Articles on my profile: https://medium.com/@ngahu242			
+
+Also update to ensure Resume Preview
+
+            {/*
+             * 📄 RESUME PREVIEW:
+             * If you want to show a live PDF preview, replace the skeleton below
+             * with an <iframe src={RESUME_VIEW_URL} ...> component.
+             * Example:
+             *   <iframe src={RESUME_VIEW_URL} className="w-full h-80 border-0" title="Resume" />
+             */}
+
+const RESUME_VIEW_URL = "https://res.cloudinary.com/dqczxob3/image/upload/Ngahu_CV_oyc63z.pdf"; // 👈 Replace with your resume preview/view URL
+const RESUME_DOWNLOAD_URL = "https://drive.google.com/file/d/1Lf-BN8f8CiZIL-ohrPq
+
+Also Remove the Kali SOC Level I project from the Website. Add this:
+ShareItFree - eMoblis Final Project
+ShareItFree is an online platform designed to help people within local communities share free products, services, and donations. This project was developed as part of my Final Project at eMobilis.
+I would like to express my gratitude to eMobilis Mobile Technology Institute for their invaluable support, training, and guidance throughout this project.
+About ShareItFree ShareItFree encourages the exchange of goods and basic services to:
+Reduce waste Promote sustainability Foster a culture of generosity By connecting individuals who have items they no longer need with those in need, ShareItFree provides a simple way to access essential resources without spending money.
+Key Features Free Items Exchange Users can post and request free items such as:
+Furniture Books Electronics Clothing Basic Services Sharing Users can offer and request basic services, including:
+Home cleaning Gardening Tutoring Pet sitting Charity and Donations Section
+Individuals and organizations can donate surplus items like clothing, food, and household goods. Local charities and nonprofits can post donation requests or list free resources to support those in need. Community Forum A space for users to:
+Share tips on sustainable living Discuss local initiatives Organize community events like donation drives and swap meets Impact Through ShareItFree, the platform aims to:
+Support a circular economy by reusing resources and minimizing waste. Promote sustainability and responsible consumption. Build stronger, more connected communities by fostering generosity and sharing. Reduce inequality by ensuring essential resources reach those in need. Technologies Used This project was developed using:
+HTML CSS Python Django Bootstrap
+Acknowledgments I extend my heartfelt gratitude to:
+eMobilis Mobile Technology Institute for their training and mentorship. My instructors, peers, and everyone who supported me throughout this project. Purpose of This Project ShareItFree was created to provide communities with a platform that embodies the values of sustainability, charity, and resourcefulness. By enabling individuals to share items and services for free, the platform aims to inspire a spirit of giving while fostering a more equitable and connected society.
+Contributing If you'd like to contribute to improving ShareItFree, feel free to fork this repository and submit a pull request.
+Thank you for visiting! Together, let’s create a more sustainable and supportive world, one free item at a time.
+
+
+Fourth Year Final Project
+Phishing Detection System 
+
+Also add my CONTACT +254793481366/+254768936593. When one clicks the contact, it should go to the dial on phone. And when click on Whatsup, it should go to whatsup.
+
+I am also continuing practicing cybersecurity on Tryhackme, Hackthebox, and letsdefend. Add that too.
+
+We can also add a skills section and add this. Remove the core competencies
+Technical Skills
+Cybersecurity
+•	Security Information and Event Management (SIEM)
+•	Security Monitoring & Event Correlation
+•	Log Analysis & Investigation
+•	Threat Detection & Threat Hunting
+•	Incident Detection, Triage & Response
+•	Indicator of Compromise (IoC) Analysis
+•	Malware Analysis Fundamentals
+•	Digital Forensics Fundamentals
+•	Vulnerability Assessment & Basic Remediation
+•	Network Traffic Analysis
+•	Attack Detection using MITRE ATT&CK
+•	Phishing Email Analysis
+•	Endpoint Security Monitoring
+•	IDS/IPS Monitoring (Suricata)
+•	Firewall Configuration & Security Monitoring (pfSense)
+•	Security Operations Center (SOC) Fundamentals
+•	Blue Team Operations
+•	Security Alert Investigation
+•	Cyber Kill Chain & ATT&CK Mapping
+Networking
+•	TCP/IP
+•	DNS
+•	DHCP
+•	VLANs
+•	Routing & Switching
+•	IPv4/IPv6 Networking
+•	Network Troubleshooting
+•	Network Security Fundamentals
+•	Packet Capture & Analysis
+Security & Administration Tools
+•	Splunk Enterprise
+•	Splunk Universal Forwarder
+•	Wireshark
+•	Nmap
+•	Suricata IDS
+•	pfSense
+•	Nessus
+•	Burp Suite
+•	Metasploit Framework
+•	tcpdump
+•	Git
+•	GitHub
+Operating Systems
+•	Windows 10/11
+•	Windows Server
+•	Ubuntu Linux
+•	Kali Linux
+•	REMnux
+•	FLARE VM
+System Administration
+•	Active Directory Administration
+•	Domain Services
+•	User & Group Management
+•	Group Policy (GPO) Fundamentals
+•	DNS & DHCP Configuration
+•	Software Installation & Deployment
+•	Access Control & Permissions
+•	Windows Event Logging
+•	Server Administration
+Cloud & Virtualization
+•	VMware Workstation
+•	VirtualBox
+•	Virtual Network Design
+•	Enterprise Lab Deployment
+Programming & Scripting
+•	Python (Fundamentals)
+•	PowerShell (Fundamentals)
+•	Bash Scripting (Fundamentals)
+•	HTML
+•	CSS
+•	Bootsrap
+Professional Skills
+•	Security Documentation
+•	Technical Reporting
+•	Incident Documentation
+•	Problem Solving
+•	Analytical Thinking
+•	Research
+•	Communication
+•	Team Collaboration
+•	Continuous Learning
+Also, I want the AI Assistant to be able to answer any questions that relates to me and also logical questions. For instance, why should I hire joseph, do you think joseph got what it takes, or any other logical question etc. I want AI the AI be able to provide the answer based on all the information that I have provided on the website. In case the question is not related to me, the AI should respond that it cn only answer questions pertaining to Joseph
+Also add a floating button or anything to go on the bottom back to the top
