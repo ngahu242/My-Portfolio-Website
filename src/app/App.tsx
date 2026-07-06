@@ -12,7 +12,7 @@ import {
 // 📄 Update RESUME_VIEW_URL with a Google Drive preview link or Cloudinary PDF.
 // 📥 Update RESUME_DOWNLOAD_URL with a direct download link.
 // ─────────────────────────────────────────────────────────────────────────────
-const RESUME_VIEW_URL = "https://res.cloudinary.com/dqczxob3/image/upload/Ngahu_CV_enbhws.pdf";
+const RESUME_VIEW_URL = "https://res.cloudinary.com/dqczxob3/image/upload/Joseph_Ngahu_dfjgof.pdf";
 
 
 
@@ -923,7 +923,7 @@ function About() {
         <div className="grid md:grid-cols-5 gap-14 items-start">
           <div className="md:col-span-3">
             <h2 className="font-display text-4xl md:text-5xl font-bold text-foreground mb-7 leading-tight">
-              Blue Team Enthusiast.<br /><span className="text-primary">Lab Builder.</span>
+              Blue Team Enthusiast.<br />
             </h2>
             <div className="space-y-4 text-muted-foreground leading-relaxed text-[0.95rem]">
               <p>I am a Mathematics and Computer Science graduate from JKUAT with a deep focus on cybersecurity, SOC operations, and hands-on lab environments. My journey began with curiosity about how systems get compromised and evolved into a passion for defending them.</p>
