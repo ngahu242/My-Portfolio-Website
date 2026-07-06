@@ -2,7 +2,7 @@
 
 A modern, responsive cybersecurity portfolio built to showcase my projects, certifications, technical articles, and professional journey.
 
-🌐 **Live Demo:** https://my-portfolio-website-rust-chi.vercel.app/
+🌐 **Wbsite Link:** https://josephngahu.qzz.io
 
 ---
 
